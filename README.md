@@ -7,7 +7,28 @@
 -Sign Up Form
 -Form Validation
 -useRef Hooks
-
+-Firebase Setup
+-Deploying our app to production
+-Creates SignUp User Account
+-Implement Sign In User Api
+-Created Redux Store with userSlice
+-Implemented Sign out
+-Update Profile
+-BugFix: signup up user displayeName and profile picture update
+-BugFix: if the user is not logged in Redirect  /browse to Login Page and vice-versa
+-Unsubscribed to the onAuthStateChanged callback
+-Add hardcoded value to the constants file
+-Register TMDB API & create an app & get access token
+-Get data from TMDB now playing movies from list api
+-Custome Hook for NowPlayingMovies
+-Create movieSlice
+-Update Store with movies Data
+-planing for Main Container and Secondary Container
+-Fetched Data from Trailer video
+-Update Store with Trailer video Data
+-Embeded the Youtube video and make it autoplay and mute
+-Tailwind Classes to make Main Container look awesome
+-
 
 # features
 -Login/Sin-up
